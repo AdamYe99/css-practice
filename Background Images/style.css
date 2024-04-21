@@ -1,0 +1,12 @@
+body {
+    background-color: lightslategray;
+}
+
+.bg-image {
+    padding: 10rem;
+    outline: 2px solid black;
+    /* background-size: 50%; */
+    background-image: url(https://assets.codepen.io/308367/house.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+}

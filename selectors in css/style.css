@@ -1,0 +1,42 @@
+/* * {
+    font-family: monospace;
+    border: 1px solid black;
+
+} */
+
+body {
+    background-color: rgb(109, 109, 109);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.gray {
+    background-color: lightcoral;
+}
+
+
+#red {
+    background-color: red;
+}
+
+p span {
+    background-color: gold;
+}
+
+h3 {
+    background-color: brown;
+}
+
+article p {
+    background-color: purple;
+}
+
+.whitesmoke {
+    color: whitesmoke;
+}
+
+button,
+input,
+form {
+    font: inherit;
+}
